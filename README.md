@@ -132,7 +132,7 @@ MyApp/
 | ไฟล์                                                                 | รายละเอียด                                                                 |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [`swiftui-vs-react-typescript.md`](./swiftui-vs-react-typescript.md) | เปรียบเทียบ SwiftUI กับ React + TypeScript พร้อมแนวทางจัดโครงสร้างโปรเจกต์ |
-| `swiftui-state-management.md`                                        | แนวทางจัดการ State ใน SwiftUI                                              |
+| [`swiftui-state-management.md`](./swiftui-vs-react-typescript.md)                                        | แนวทางจัดการ State ใน SwiftUI                                              |
 | `swiftui-navigation.md`                                              | NavigationStack, Route และ Deep Link                                       |
 | `swiftui-architecture.md`                                            | Architecture และ Dependency Injection                                      |
 | `swiftui-folder-structure.md`                                        | แนวทางจัด Folder Structure ตามขนาดโปรเจกต์                                 |
